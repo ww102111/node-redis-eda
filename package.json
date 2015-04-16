@@ -1,0 +1,22 @@
+{
+  "name": "node-redis-eda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vinnylinck/node-redis-eda"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinnylinck/node-redis-eda/issues"
+  },
+  "homepage": "https://github.com/vinnylinck/node-redis-eda",
+  "dependencies": {
+    "redis": "^0.12.1"
+  }
+}
